@@ -1,2 +1,3 @@
 Git is widely used in DevOps.
 GitHub provides remote repository hosting.
+Git supports branching and merging.
